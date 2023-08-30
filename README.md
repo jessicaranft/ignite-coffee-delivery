@@ -1,27 +1,38 @@
-# React + TypeScript + Vite
+# Coffee Delivery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![preview](https://github.com/jessicaranft/ignite-coffee-delivery/blob/main/.github/preview.png)
 
-Currently, two official plugins are available:
+This is a simple coffee delivery app created with the purpose of studying the following concepts with React:
+<br><br>
+- State
+- ContextAPI
+- Local Storage
+- Lists and keys
+- Props
+- Componentization
+<br><br>
+For this app, I worked with the following dependencies:
+<br><br>
+- ESLint
+- Node
+- React Router Dom
+- Styled Components
+- Vite
+- TypeScript
+- React Hook Form
+- Zod
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎨 Layout
 
-## Expanding the ESLint configuration
+The layout was created following a Figma prototype.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🛠 Technologies
+- HTML
+- CSS
+- JavaScript (ReactJS)
 
-- Configure the top-level `parserOptions` property like this:
+## 💻 Deploy
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+🔗 <a href="https://ignite-coffee-delivery-hazel.vercel.app/" target="_blank">Click to view it live</a>
+<br><br>
+Made with ❤️ by Jessica Ranft.
